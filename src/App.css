@@ -1,0 +1,18 @@
+.faucet-wrapper{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+    background-color: grey;
+    color: white;
+    padding-bottom: 300px;
+}
+
+.mr-3{
+    color: white;
+}
+
+.balance-view{ 
+    color: white;
+}
